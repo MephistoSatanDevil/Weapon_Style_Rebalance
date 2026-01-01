@@ -21,7 +21,7 @@ LANGUAGE	~English~
 
 LANGUAGE 	~Simplified Chinese~
 					~schinese~
-					~c4WSREE/lang/schinese/prompts/prompts-%WEIDU_OS%.tra~
+					~c4WSREE/lang/schinese/prompts/prompts.tra~
 					~c4WSREE/lang/schinese/setup.tra~
 
 BEGIN  @-1
